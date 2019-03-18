@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TimeToLearn</string>
+    <string name="logo">Logo Time To Learn</string>
+    <string-array name="options">
+        <item>Ardy Linear Layout Kick</item>
+        <item>Ardy Relative Layout Punch</item>
+        <item>Ardy Card View Sidekick</item>
+    </string-array>
+</resources>
